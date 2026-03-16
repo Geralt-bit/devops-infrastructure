@@ -8,3 +8,4 @@ scrape_configs:
 rule_files:
   - alerts.yml
 # alert rule
+# metrics note
